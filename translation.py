@@ -1,10 +1,62 @@
 class Translation(object):
-    START_TEXT = """This is an @AnyDLBot clone created using the Open Source code available.
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
-© @AnyDLBot"""
+    START_TEXT = """Hi. Thanks For using me.
+    click /help to know how to use me. Please send a direct(video)link,and i will try to upload it on Telegram.
+    
+    Join @Escrowgram if you are using it.
+    
+    Made with love by @Edraken_xd"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "This is an @AnyDLBot clone created using the Open Source <a href='https://github.com/SpEcHiDe/AnyDLBot'>code</a>. \nStart @AnyDLBot to know Paid Plans!"
+    UPGRADE_TEXT = """@AnyDLAioBot Paid Plans
+-------
+Plan: FREE
+Filesize limit: 1500 MB
+Daily limit: UNLIMITED
+Price 🌎: ₹ 0 / 30 Days
+FEATURES:
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos! (https://t.me/SpEcHlDe/608)
+👉 Get a Telegram sticker as a Telegram downloadable media (https://t.me/SpEcHlDe/660)
+👉 Upload as file from any HTTP link, with custom thumbnail support (https://t.me/SpEcHlDe/609)
+👉 Get Low Speed Direct Download Link of any Telegram file (https://t.me/SpEcHlDe/611)
+-------
+Plan: B
+Filesize limit: 1500 MB
+Daily limit: UNLIMITED
+Price 🇮🇳: ₹ 38 / 28 Days
+Pay Via PayTM (https://p-y.tm/y-UWWUu)
+FEATURES:
+👉 All Above Features +
+👉 without the Time Limit
+-------
+Plan: C
+Filesize limit: 1500 MB
+Daily limit: UNLIMITED
+Price 🌎: $ 1.74 / 28 Days
+Price 🇮🇳: ₹ 121 / 28 Days
+Pay Via PayTM (https://p-y.tm/ru-47PX)
+FEATURES:
+👉 All Above Features +
+👉 Convert To Telegram Audio, the media sent as Telegram Documents (https://telegram.dog/AnyDLBot)
+👉 Convert To Streamable Video, any Telegram file (https://telegram.dog/AnyDLBot)
+👉 ReName Telegram files, with custom thumbnail support (https://t.me/SpEcHlDe/610)
+-------
+Plan: D
+Filesize limit: 1500 MB
+Daily limit: UNLIMITED
+Price 🌎: $ 14.25 / 28 Days
+Price 🇮🇳: ₹ 987 / 28 Days
+Pay Via PayTM (https://p-y.tm/WOF-alE)
+FEATURES:
+👉 All Above Features +
+👉 Generate Custom Thumbnail by sending two photos in a Media Album (https://t.me/SpEcHlDe/625)
+👉 Trim large videos (https://t.me/SpEcHlDe/653), and Take Screenshots (https://t.me/SpEcHlDe/652) of Telegram media files.
+👉 Extract compressed Telegram media (https://t.me/SpEcHlDe/657)
+👉 PLUS, all newly features that are going to be added in the feature*.
+-------
+@AnyDLAioBot reserves the rights to change the benefits of plans, at anytime.
+-------
+NOTE: After payment you must take screenshot of receipt and send to @Edraken_Xd with your Telegram ID obtained from /me
+🙏 Please Message from the ID you want plan to be activated 🙏"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -28,18 +80,18 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
+Plan name: <a href='https://t.me/CodeToid/6'>{}</a>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/625">Generate Custom Thumbnail by sending two photos in a Media Album</a>
-👉 <a href="https://t.me/SpEcHlDe/653">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
-👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/Anydlaiobot">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
+👉 <a href="https://t.me/Anydlaiobot">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/Anydlaiobot">Convert To Streamable Video, any Telegram file</a>
+👉 <a href="https://t.me/Anydlaiobot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
+👉 <a href="https://t.me/Anydlaiobot">ReName Telegram files, with custom thumbnail support</a>
+👉 <a href="https://t.me/Anydlaiobot">Generate Custom Thumbnail by sending two photos in a Media Album</a>
+👉 <a href="https://t.me/Anydlaiobot">Trim large videos</a>, and <a href="https://t.me/Anydlaiobot">Take Screenshots</a> of Telegram media files.
+👉 <a href="https://t.me/Anydlaiobot">Extract compressed Telegram media</a>
+👉 <a href="https://t.me/Anydlaiobot">Get a Telegram sticker as a Telegram downloadable media</a>
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
